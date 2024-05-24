@@ -1,0 +1,22 @@
+{
+    "_default": {
+        "1": {
+            "first_name": "Patrick",
+            "last_name": "Smith",
+            "phone_number": "0123456789",
+            "address": "10 rue des champs \u00e9lys\u00e9e, Paris"
+        },
+        "3": {
+            "first_name": "Jean",
+            "last_name": "Dupont",
+            "phone_number": "0123456789",
+            "address": "5 rue all\u00e9e verte, Rennes"
+        },
+        "4": {
+            "first_name": "Ekko",
+            "last_name": "Le chat",
+            "phone_number": "0123456789",
+            "address": "Chez moi"
+        }
+    }
+}
